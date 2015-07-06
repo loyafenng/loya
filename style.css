@@ -239,6 +239,7 @@ img{
 }
 .main .inner .blog .article .aside .part2 ul li{
     height: 49px;
+    line-height:49px;
     border-top: 1px solid #ccc;
     list-style: none;
 }
